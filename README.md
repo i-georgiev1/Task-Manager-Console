@@ -63,5 +63,6 @@
 	│   └── manager.py
 	│
 	└── data/
-	    └── tasks.csv
+ 	    ├── tasks.csv
+	    └── app.log
 
