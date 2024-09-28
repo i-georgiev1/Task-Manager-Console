@@ -1,6 +1,3 @@
-from datetime import datetime
-
-
 class Task:
     def __init__(self, description='', priority='', status=False, due_date=None):
         self.description = description
